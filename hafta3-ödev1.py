@@ -67,7 +67,6 @@ sayilar = "0123456789"
 cift_sayilar = sayilar[::2]  
 tek_sayilar = sayilar[1::2] 
 
-# Sonuçları yazdır
 print("1. İfadeden Her Bir Kelime: ", kelimeler)
 print("2. İfadenin Tamami Büyük Harf: ", buyuk_harfler)
 print("3. İfadenin Tamami Küçük Harf: ", kucuk_harfler)
