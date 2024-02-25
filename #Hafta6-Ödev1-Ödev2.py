@@ -1,4 +1,4 @@
-#Hafta6-Ödev1 ve Ödev2#
+#Hafta6-Ödev1-1.Kısım
 ogrenci_bilgileri={"emin kaya":{"matematik":"100","kimya":"100","fizik":"100"}
                    ,"yasemin kaya":{"matematik":"100","kimya":"100","fizik":"100"}}
 isim=input("Öğrencinin adı soyadını giriniz: ")
